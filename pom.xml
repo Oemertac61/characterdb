@@ -60,7 +60,7 @@
       <artifactId>spring-boot-maven-plugin</artifactId>
       <version>3.2.5</version>
       <configuration>
-        <mainClass>com.onepiece.characterdb.CharacterDbApplication</mainClass>
+        <mainClass>com.onepiece.characterdb.CharacterdbApplication</mainClass>
       </configuration>
       <executions>
         <execution>
